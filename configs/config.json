@@ -1,0 +1,17 @@
+{
+  "stagingUrl": "https://URL",
+  "driverPath": "Path to webdriver",
+  "secure_email": "any_secure_email@blablabla.com",
+  "alternative_email_for_secure": "any_alt_email@blablabla.com",
+  "unprotected_email": "eny_unprotected_email@blablabla.com",
+  "alternative_email_for_unprotected": "eny_alt_for_unprotected_email@blablabla.com",
+  "password": "AnyPassword",
+  "secure_email_second": "any_second_secure_email@blablabla.com",
+  "password_second": "AnySecondPassword",
+  "new_password": "AnyNewPassword",
+  "unregistered_email": "mail@example.com",
+  "wrong_password": "AnyWrongPassword",
+  "without_alternative_email": "any_without_alt_email@blablabla.com",
+  "email_subject_empty": "Empty email",
+  "email_body": "Some text..."
+}
